@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  p:
+    image: p
+    environment:
+      - P_DISCORD_TOKEN=
+      - P_DISCORD_CLIENT_ID=
